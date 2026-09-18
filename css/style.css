@@ -209,7 +209,7 @@ img {
   50% { transform: scale(1.3); }
 }
 
-.logo, .creditos {
+.logo, .subtitle {
   letter-spacing: 0.5px;
 }
 
@@ -232,8 +232,3 @@ img {
   border-radius: 8px;
 }
 
-.creditos {
-  margin-top: 20px;
-  font-size: 0.8rem;
-  color: #777;
-}
